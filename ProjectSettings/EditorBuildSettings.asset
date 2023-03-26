@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cd4a16bcd130d4e45b35478830749ad0
+  - enabled: 1
+    path: Assets/Scenes/SP1.unity
+    guid: fc49aeac62505a34d8771ccd92063db4
+  - enabled: 1
+    path: Assets/Scenes/SP2.unity
+    guid: 59c79425e07931a4ebf4b82d06a8640d
+  - enabled: 1
+    path: Assets/Scenes/SP3.unity
+    guid: f66d2ab5a1a016041bdae75134c2ef3c
+  - enabled: 1
+    path: Assets/Scenes/SP4.unity
+    guid: 1bc3db00ca1f6ad439b923eb36256d7b
+  - enabled: 1
+    path: Assets/Scenes/SP5.unity
+    guid: 667ee0d8ed358c948a30749eed6172f8
+  - enabled: 1
+    path: Assets/Scenes/SP6.unity
+    guid: 791c5517e5cc0dd41ba9b82a18833d7a
+  - enabled: 1
+    path: Assets/Scenes/SP7.unity
+    guid: ae723ea8425a7b849b7395effa7157a8
+  - enabled: 1
+    path: Assets/Scenes/SP8.unity
+    guid: bb997fe00525a80408288fd7b400c3e8
+  - enabled: 1
+    path: Assets/Scenes/SP9.unity
+    guid: 702b3574d1a81d840bba6ed275330e50
+  - enabled: 1
+    path: Assets/Scenes/SP10.unity
+    guid: 18e8f63270fc9d448ae5ca39ac720486
+  - enabled: 1
+    path: Assets/Scenes/SP11.unity
+    guid: c351d66ac41845b479be1b8e9c175391
+  - enabled: 1
+    path: Assets/Scenes/SP12.unity
+    guid: a183a7d8b33498246a73350fa693c1d9
+  - enabled: 1
+    path: Assets/Scenes/SP13.unity
+    guid: f688991ab81860c458aa4f9df0b59b5a
+  - enabled: 1
+    path: Assets/Scenes/SP14.unity
+    guid: e29d917c3da18b346ae56522ac22e91d
+  - enabled: 1
+    path: Assets/Scenes/SP15.unity
+    guid: da2090f410b973f4a9c03d8fa68ab345
+  - enabled: 1
+    path: Assets/Scenes/SP16.unity
+    guid: 640f12de9b8674747be98d237faa4ade
+  - enabled: 1
+    path: Assets/Scenes/SP17.unity
+    guid: c00e350d1cfc94a4399dc68f837806ff
+  - enabled: 1
+    path: Assets/Scenes/SP18.unity
+    guid: e3b67f7f824cc004183b8c21caec9834
+  - enabled: 1
+    path: Assets/Scenes/SP19.unity
+    guid: fd708f80dfbc96747878e02953f3ef02
+  - enabled: 1
+    path: Assets/Scenes/SP20.unity
+    guid: e142f820c12ff4640914e0c1cf468f2c
+  - enabled: 1
+    path: Assets/Scenes/DualPlayer.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
