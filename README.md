@@ -5,5 +5,4 @@
 - **Difficulty**: Intermediate
 - **Topics**: Tilemaps, Animation, Multiplayer
 - **Version**: Unity 2020.3 (LTS)
-- [**Download**](https://github.com/zigurous/unity-bomberman-tutorial/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/8agb6x5RpOI)
+
